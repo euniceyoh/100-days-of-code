@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: December 11, 2020
-**Today's Progress**:
+**Today's Progress:** 
 **Thoughts:** 
 
 <!---
